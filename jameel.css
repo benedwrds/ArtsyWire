@@ -1,0 +1,19 @@
+h1 {
+  /* margin-left: 20%; */
+  /* margin-right: 20%; */
+  text-align: center;
+  margin-top: 5%;
+}
+
+.centerJameel {
+  text-align: center;
+}
+
+.quote{
+  line-height: 1.6;
+}
+
+.video {
+  padding: 5%;
+  text-align: center;
+}
